@@ -6,3 +6,5 @@ Copy + paste this into your Emmet user settings file (Preferences -> Package Set
 Adds support for:
 * Basic grid syntax
 * Pointer-events
+* SVG properties (fill, stroke, stroke-*)
+* Webkit overflow-scrolling and tap highlight
