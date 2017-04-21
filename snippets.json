@@ -4,6 +4,7 @@
 		"css": {
 			"snippets": {
 				"d:g": "display: grid;",
+				"fi": "fill:|;",
 				"gtc": "grid-template-columns:|;",
 				"gtr": "grid-template-rows:|;",
 				"gt": "grid-template:|;",
@@ -18,7 +19,11 @@
 				"pe": "pointer-events:|;",
 				"pe:au": "pointer-events: auto;",
 				"pe:a": "pointer-events: all;",
-				"pe:n": "pointer-events: none;"
+				"pe:n": "pointer-events: none;",
+				"st": "stroke:|;",
+				"stw": "stroke-width:|;",
+				"stda": "stroke-dasharray:|;",
+				"stdo": "stroke-dashoffset:|;"
 			}
 		}
 	}
