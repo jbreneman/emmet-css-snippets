@@ -23,7 +23,11 @@
 				"st": "stroke:|;",
 				"stw": "stroke-width:|;",
 				"stda": "stroke-dasharray:|;",
-				"stdo": "stroke-dashoffset:|;"
+				"stdo": "stroke-dashoffset:|;",
+				"wovs": "-webkit-overflow-scrolling:|;",
+				"wovs:t": "-webkit-overflow-scrolling: touch;",
+				"wovs:a": "-webkit-overflow-scrolling: auto;",
+				"wthc": "-webkit-tap-highlight-color: ${1:rgba(0, 0, 0, 0)};"
 			}
 		}
 	}
