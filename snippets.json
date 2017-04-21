@@ -1,0 +1,24 @@
+{
+	// Custom snippets definitions, as per https://github.com/emmetio/emmet/blob/master/snippets.json
+	"snippets": {
+		"css": {
+			"snippets": {
+				"d:g": "display: grid;",
+				"gtc": "grid-template-columns:|;",
+				"gtr": "grid-template-rows:|;",
+				"gt": "grid-template:|;",
+				"gcg": "grid-column-gap:${1:1rem};",
+				"grg": "grid-row-gap:${1:1rem};",
+				"gg": "grid-gap:${1:1rem};",
+				"gac": "grid-auto-columns:|;",
+				"gar": "grid-auto-rows:|;",
+				"gaf": "grid-auto-flow:|;",
+				"g": "grid:|;",
+				"pe": "pointer-events:|;",
+				"pe:au": "pointer-events: auto;",
+				"pe:a": "pointer-events: all;",
+				"pe:n": "pointer-events: none;"
+			}
+		}
+	}
+}
