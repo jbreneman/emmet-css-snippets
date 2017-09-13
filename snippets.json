@@ -24,6 +24,7 @@
 				"stw": "stroke-width:|;",
 				"stda": "stroke-dasharray:|;",
 				"stdo": "stroke-dashoffset:|;",
+				"wc": "will-change:|;",
 				"wovs": "-webkit-overflow-scrolling:|;",
 				"wovs:t": "-webkit-overflow-scrolling: touch;",
 				"wovs:a": "-webkit-overflow-scrolling: auto;",
